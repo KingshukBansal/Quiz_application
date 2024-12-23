@@ -10,7 +10,7 @@
         <maven.compiler.source>19</maven.compiler.source>
         <maven.compiler.target>19</maven.compiler.target>
         <exec.mainClass>com.mycompany.quizapplication.QuizApplication</exec.mainClass>
-    <rs2xml.path>/home/Codes/kingshuk codes/netbeans/TheQuizApplication/Backend/QuizApplication/lib/rs2xml.jar</rs2xml.path>
+    <rs2xml.path>C:\personal\Quiz_application\lib\rs2xml.jar</rs2xml.path>
     </properties>
 
         <dependencies>
